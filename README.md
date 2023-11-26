@@ -9,3 +9,6 @@ The tool operates based on certain requirements and assumptions, including:
  - Criteria for accepting/rejecting percentage variability stands at 15%.
  - The tool undergoes testing with a sample size of 50.
  - The input file is expected to be in .xlsx format, lacking any header for the record column.
+
+The below image is an example of the output format of the tool.
+<img src="https://github.com/amirmsn/msa_type_1_study/blob/main/github_example_01.png">
