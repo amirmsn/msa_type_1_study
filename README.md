@@ -13,3 +13,12 @@ The tool operates based on certain requirements and assumptions, including:
 The below image is an example of the output format of the tool.
 
 <img src="https://github.com/amirmsn/msa_type_1_study/blob/main/github_example_01.png">
+
+Prior to the installation of Python, make sure that it is added to the path.
+To run the code, go to the folder where it is saved, and in the address bar type cmd to open a command window. Type Python plus the name of the Python code file. Hit Enter to execute it.
+
+The prerequisite libraries and their way of installation before running the code are as follows:
+ - pip install pandas
+ - pip install matplolib
+ - pip install scipy
+ - pip install openpyxl
