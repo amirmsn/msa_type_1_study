@@ -19,6 +19,6 @@ To run the code, go to the folder where it is saved, and in the address bar type
 
 The prerequisite libraries and their way of installation before running the code are as follows:
  - pip install pandas
- - pip install matplolib
+ - pip install matplotlib
  - pip install scipy
  - pip install openpyxl
